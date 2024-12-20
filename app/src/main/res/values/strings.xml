@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Заказ мебели</string>
+    <string-array name="categories">
+        <item>Все категории</item>
+        <item>стол</item>
+        <item>стул</item>
+        <item>шкаф</item>
+    </string-array>
+</resources>
